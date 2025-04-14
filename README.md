@@ -45,9 +45,10 @@
 
 ---
 
-### LinkedIn Banner
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="neamakazemi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/neamakazemi?trk=profile-badge">Neama Kazemi</a></div>
+### Connect on LinkedIn
+[![Neama on LinkedIn](https://img.shields.io/badge/Neama%20Kazemi-LinkedIn-blue?style=flat&logo=linkedin)](https://uk.linkedin.com/in/neamakazemi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://uk.linkedin.com/in/neamakazemi)
+
 
 ---
 
