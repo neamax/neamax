@@ -1,6 +1,6 @@
 <h2 align="center">Neama Kazemi</h2>
-<h4 align="center">Software Engineer | Game Developer</h4>
-<h4 align="center">Founder of <a href="https://www.luckygene.net" target="_blank">LuckyGene Indie Studios</a></h4>
+<h4 align="center" marginBottom="0">Software Engineer | Game Developer</h4>
+<h5 align="center" marginTop="0">Founder of <a href="https://www.luckygene.net" target="_blank">LuckyGene Indie Studios</a></h5>
 
 ---
 
