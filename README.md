@@ -55,4 +55,6 @@
 [![LuckyGene](https://img.shields.io/badge/Website-LuckyGene.net-dddddd?style=flat-square&logo=neutralinojs&logoColor=white)](https://www.luckygene.net) <br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/neamax)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/V7AEWSG6B3RAO1)
+[![Instagram](https://img.shields.io/badge/Instagram-ff1751?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neamakazemi)
+[![Email](https://img.shields.io/badge/Send-Email-333333?style=flat-square&logo=email&logoColor=white)](mailto:neama@luckygene.net)
 
