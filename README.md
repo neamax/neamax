@@ -1,17 +1,17 @@
-<h1 align="center" style="text-size: 10px">Neama Kazemi</h1>
-<h3 align="center">Software Engineer | Game Developer</h3>
-<h3 align="center">Founder of ![LuckyGene Indie Studios](https://www.luckygene.net)</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+games+with+Unreal+Engine+5;I+love+network+security+and+automation;Let's+build+something+awesome!" alt="Typing SVG" />
-</p>
+<h2 align="center">Neama Kazemi</h2>
+<h4 align="center">Software Engineer | Game Developer</h4>
+<h4 align="center">Founder of <a href="https://www.luckygene.net" target="_blank">LuckyGene Indie Studios</a></h4>
 
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on: `privateCheat`, `madcoinbot`
+- 🔭 Just another Software Engineer
 - 🎮 Founder of **LuckyGene Indie Studio**
-- 📚 Passionate about: Unreal Engine 5, network security, bot automation
+- 📚 Passionate about: 
+        🔵 WebApps
+        🔵 Unreal Engine 5
+        🔵 Network Security
+        🔵 Automations using n8n
 - ⚡ Fun fact: I’m also a part-time trader since 2018 🚀
 
 ---
