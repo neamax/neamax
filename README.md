@@ -46,13 +46,12 @@
 ---
 
 ### Connect on LinkedIn
-[![Neama on LinkedIn](https://img.shields.io/badge/Neama%20Kazemi-LinkedIn-blue?style=flat&logo=linkedin)](https://uk.linkedin.com/in/neamakazemi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://uk.linkedin.com/in/neamakazemi)
 
 
 ---
 
 ### 📫 Let's connect!
+[![Neama on LinkedIn](https://img.shields.io/badge/Neama%20Kazemi-LinkedIn-blue?style=flat&logo=linkedin)](https://uk.linkedin.com/in/neamakazemi) <br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/neamax)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/V7AEWSG6B3RAO1)
 [![LuckyGene](https://img.shields.io/badge/LuckyGene-Website-dddddd?style=flat-square&logo=neutralinojs&logoColor=white)](https://www.luckygene.net)
