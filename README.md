@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neama</h1>
-<h3 align="center">Software Engineer | Game Developer | Full-time Trader</h3>
+<h3 align="center">Software Engineer | Game Developer</h3>
+<h3 align="center">Founder of [LuckyGene Indie Studios](https://www.luckygene.net)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+build+games+with+Unreal+Engine+5;I+love+network+security+and+automation;Let's+build+something+awesome!" alt="Typing SVG" />
