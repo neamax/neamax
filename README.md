@@ -5,13 +5,12 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Just another Software Engineer
-- 🎮 Founder of **LuckyGene Indie Studio**
+- 🔭 Software Engineer at **LuckyGene Indie Studio**
+- 🎮 Game Developer
 - 📚 Passionate about: WebApps, Unreal Engine 5, Network Security, Automations using n8n
-- ⚡ Fun fact: I’m also a part-time trader since 2018 🚀
-- 🎬 I was working as Editor in Cinema between 2015-2020
-- 📼 I was also a Motion Graphics and Animation Director during that time
-- 🤖 But coding was always my first priority and I always introduce myself as a Programmer
+- ⚡ Part-time trader since 2018 🚀
+- 🎬 Former Editor in Cinema between 2015-2020
+- 📼 Former Motion Graphics and Motion Pictures Designer
 
 ---
 
