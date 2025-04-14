@@ -31,7 +31,7 @@
 ![Maya](https://img.shields.io/badge/Autodesk%20Maya-00A6D6?style=flat-square&logo=autodesk&logoColor=white)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-007ACC?style=flat-square&logo=autodesk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Lumion](https://img.shields.io/badge/any_text-you_like-blue) 
+![Lumion](https://img.shields.io/badge/12-Lumion-cyan) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
