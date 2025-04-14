@@ -7,11 +7,7 @@
 ### 🧠 About Me
 - 🔭 Just another Software Engineer
 - 🎮 Founder of **LuckyGene Indie Studio**
-- 📚 Passionate about: 
-        🔵 WebApps
-        🔵 Unreal Engine 5
-        🔵 Network Security
-        🔵 Automations using n8n
+- 📚 Passionate about: WebApps, Unreal Engine 5, Network Security, Automations using n8n
 - ⚡ Fun fact: I’m also a part-time trader since 2018 🚀
 - 🎬 I was working as Editor in Cinema between 2015-2020
 - 📼 I was also a Motion Graphics and Animation Director during that time
@@ -29,6 +25,16 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-ef5b25?style=flat-square&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-00A6D6?style=flat-square&logo=autodesk&logoColor=white)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-007ACC?style=flat-square&logo=autodesk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Lumion](https://img.shields.io/badge/Lumion-002147?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjwvc3ZnPg==&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ---
 
