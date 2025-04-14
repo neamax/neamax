@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: `privateCheat`, `madcoinbot`
 - 🎮 Founder of **LuckyGene Indie Studio**
 - 📚 Passionate about: Unreal Engine 5, network security, bot automation
-- ⚡ Fun fact: I’m also a full-time trader since 2023 🚀
+- ⚡ Fun fact: I’m also a full-time trader since 2019 🚀
 
 ---
 
