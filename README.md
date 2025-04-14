@@ -1,10 +1,4 @@
-<style>
-  h1 {
-    font-size: 10rem;
-  }
-</style>
-
-<h1 align="center">Neama Kazemi</h1>
+<h1 align="center" style="text-size: 10rem;">Neama Kazemi</h1>
 <h3 align="center">Software Engineer | Game Developer</h3>
 <h3 align="center">Founder of ![LuckyGene Indie Studios](https://www.luckygene.net)</h3>
 
