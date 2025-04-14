@@ -48,6 +48,6 @@
 ### 📫 Let's connect!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/neamax)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/V7AEWSG6B3RAO1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neamakazemi/)
-[![LuckyGene](https://img.shields.io/badge/LuckyGene-Studios-black?style=flat-square&logo=neutralinojs&logoColor=white)](https://www.luckygene.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linksys&logoColor=white)](https://www.linkedin.com/in/neamakazemi/)
+[![LuckyGene](https://img.shields.io/badge/LuckyGene-Website-dddddd?style=flat-square&logo=neutralinojs&logoColor=white)](https://www.luckygene.net)
 
