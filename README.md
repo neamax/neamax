@@ -31,7 +31,7 @@
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-007ACC?style=flat-square&logo=autodesk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Lumion](https://img.shields.io/badge/12-Lumion-cyan) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0ibTI3LjUxNSA2Ljc0My02LTMuNmMtLjAyNy0uMDE2LS4wNTctLjAyNC0uMDg2LS4wMzctLjM5Ny0uMjM4LS45MS0uMTk1LTEuMjM5LjE1N2wtOC40MTkgOS4wMjEtNC42NC00LjI1NGExLjAwMyAxLjAwMyAwIDAgMC0xLjEyMy0uMTU3TDMuNTk3IDkuMDc4YTEuMDAxIDEuMDAxIDAgMCAwLS4yODQgMS41NzZMOC4zMDIgMTZsLTQuOTg5IDUuMzQ2YS45OTkuOTk5IDAgMCAwIC4yODQgMS41NzZsMi40MTEgMS4yMDZhLjk5Ny45OTcgMCAwIDAgMS4wODgtLjEyN2w0Ljg3OS00LjA2NiA4LjIxNSA4LjgwMmEuOTk4Ljk5OCAwIDAgMCAuNzMxLjMxOC45OTQuOTk0IDAgMCAwIC41Mi0uMTY3Yy4wMjQtLjAxMi4wNS0uMDE3LjA3My0uMDMxbDYtMy42QTEgMSAwIDAgMCAyOCAyNC40VjcuNmExIDEgMCAwIDAtLjQ4NS0uODU3ek02LjMxNyAyMi4wNDZsLS42MjktLjMxNCAzLjk4MS00LjI2Ni45MzggMS4wMDUtNC4yOSAzLjU3NXpNMjAgMjUuNjAyIDUuNjg4IDEwLjI2OGwuNTk5LS4yOTlMMjAgMjIuNTR2My4wNjJ6bTAtNS43NzYtMy43NTktMy40NDZMMjAgMTMuMjQ4djYuNTc4em0wLTkuMTgyLTUuMjQ3IDQuMzcyLTEuNTA3LTEuMzgyTDIwIDYuMzk4djQuMjQ2em02IDEzLjE4OS00IDIuNFY1Ljc2Nmw0IDIuNHYxNS42Njd6IiBmaWxsPSIjZmZmZmZmIiBjbGFzcz0iZmlsbC0wMDAwMDAiPjwvcGF0aD48L3N2Zz4=)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
