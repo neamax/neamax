@@ -45,9 +45,13 @@
 
 ---
 
+### LinkedIn Banner
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="neamakazemi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/neamakazemi?trk=profile-badge">Neama Kazemi</a></div>
+
+---
+
 ### 📫 Let's connect!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/neamax)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/V7AEWSG6B3RAO1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linksys&logoColor=white)](https://www.linkedin.com/in/neamakazemi/)
 [![LuckyGene](https://img.shields.io/badge/LuckyGene-Website-dddddd?style=flat-square&logo=neutralinojs&logoColor=white)](https://www.luckygene.net)
 
