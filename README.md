@@ -8,9 +8,8 @@
 - 🔭 Software Engineer at **LuckyGene Indie Studio**
 - 🎮 Game Developer
 - 📚 Passionate about: WebApps, Unreal Engine 5, Network Security, Automations using n8n
-- ⚡ Part-time trader since 2018 🚀
+- 💹 Part-time trader since 2018 🚀
 - 🎬 Former Editor in Cinema between 2015-2020
-- 📼 Former Motion Graphics and Motion Pictures Designer
 
 ---
 
