@@ -19,7 +19,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/V7AEWSG6B3RAO1)
 [![Instagram](https://img.shields.io/badge/Instagram-ff1751?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neamakazemi)
 
----
 
 ## 🛠️ Tech Stack
 <p align="left">
