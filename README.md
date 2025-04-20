@@ -4,14 +4,12 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 - 🔭 Software Engineer at **LuckyGene Indie Studio**
 - 🎮 Game Developer
 - 📚 Passionate about: WebApps, Unreal Engine 5, Network Security, Automations using n8n
 - 💹 Part-time trader since 2018 🚀
 - 🎬 Former Editor in Cinema between 2015-2020
-
----
 
 ### 📫 Let's connect!
 [![Email](https://img.shields.io/badge/Email-neama@luckygene.net-dddddd?style=flat-square&logo=gmail&logoColor=white)](mailto:neama@luckygene.net) <br>
