@@ -21,8 +21,8 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
+## 🛠️ Tech Stack
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=neama&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neama&layout=compact&theme=tokyonight" height="165">
 </p>
