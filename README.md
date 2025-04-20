@@ -36,19 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neama&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neama&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-### Connect on LinkedIn
-
-
----
-
 ### 📫 Let's connect!
 [![Email](https://img.shields.io/badge/Email-neama@luckygene.net-dddddd?style=flat-square&logo=gmail&logoColor=white)](mailto:neama@luckygene.net) <br>
 [![LuckyGene](https://img.shields.io/badge/Website-LuckyGene.net-dddddd?style=flat-square&logo=lineageos&logoColor=white)](https://www.luckygene.net) <br>
@@ -57,3 +44,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/V7AEWSG6B3RAO1)
 [![Instagram](https://img.shields.io/badge/Instagram-ff1751?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neamakazemi)
 
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neama&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neama&layout=compact&theme=tokyonight" height="165">
+</p>
+---
