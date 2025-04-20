@@ -2,8 +2,6 @@
 <h4 align="center" style="margin-bottom: 0;">Software Engineer | Game Developer</h4>
 <h5 align="center" style="margin-top: 0;">Founder of <a href="https://www.luckygene.net" target="_blank">LuckyGene Indie Studios</a></h5>
 
----
-
 ## 🧠 About Me
 - 🔭 Software Engineer at **LuckyGene Indie Studio**
 - 🎮 Game Developer
