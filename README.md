@@ -1,4 +1,9 @@
-<h3 align="center" fontWeight="bolder">Neama Kazemi</h3>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+h3 { font-family: 'Jost', sans-serif; }
+</style>
+
+<h3 align="center"><strong>Neama Kazemi</strong></h3>
 <h4 align="center">Software Engineer | Game Developer</h4>
 
 ## 🧠 About Me
