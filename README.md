@@ -1,5 +1,5 @@
-<h2 align="center">Neama Kazemi</h2>
-<h4 align="center" style="margin-bottom: 0;">Software Engineer | Game Developer</h4>
+<h3 align="center">**Neama Kazemi**</h3>
+<h4 align="center">Software Engineer | Game Developer</h4>
 
 ## 🧠 About Me
 - 🖥️ Software Engineer & Game Developer at <a href="https://www.luckygene.net" target="_blank">**LuckyGene Indie Studios**</a>
