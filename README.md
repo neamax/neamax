@@ -17,12 +17,13 @@
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/neama.x)
 
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Info
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=neama&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neama&layout=compact&theme=tokyonight" height="165">
 </p>
 
+### 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
