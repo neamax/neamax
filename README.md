@@ -1,4 +1,4 @@
-<h3 align="center">**Neama Kazemi**</h3>
+<h3 align="center" fontWeight="bolder">Neama Kazemi</h3>
 <h4 align="center">Software Engineer | Game Developer</h4>
 
 ## 🧠 About Me
