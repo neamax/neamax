@@ -1,9 +1,8 @@
 <h2 align="center">Neama Kazemi</h2>
 <h4 align="center" style="margin-bottom: 0;">Software Engineer | Game Developer</h4>
-<h5 align="center" style="margin-top: 0;">Founder of <a href="https://www.luckygene.net" target="_blank">LuckyGene Indie Studios</a></h5>
 
 ## 🧠 About Me
-- 🖥️ Software Engineer & Game Developer at **LuckyGene Indie Studio**
+- 🖥️ Software Engineer & Game Developer at <a href="https://www.luckygene.net" target="_blank">**LuckyGene Indie Studios**</a>
 - 📚 Passionate about: WebApps, Unreal Engine 5, Network Security, Automations using n8n
 - 🎬 Former Editor in Cinema between 2015-2020
 
