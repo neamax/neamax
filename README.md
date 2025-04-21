@@ -1,4 +1,4 @@
-<img src="https://luckygene.net/neama-git-profile-title.png" alt="Neama Kazemi Github Frontpage Heading" />
+<img src="https://luckygene.net/neama-git-title.png" alt="Neama Kazemi Github Frontpage Heading" />
 
 ## 🧠 About Me
 - 🖥️ Software Engineer & Game Developer at <a href="https://www.luckygene.net" target="_blank">**LuckyGene Indie Studios**</a>
