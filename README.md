@@ -1,5 +1,4 @@
-<h3 align="center"><strong>Neama Kazemi</strong></h3>
-<h4 align="center" color="#e3e3e3">Software Engineer | Game Developer</h4>
+<img src="https://luckygene.net/neama-profile.jpg" alt="Neama Kazemi Github Frontpage Heading" />
 
 ## 🧠 About Me
 - 🖥️ Software Engineer & Game Developer at <a href="https://www.luckygene.net" target="_blank">**LuckyGene Indie Studios**</a>
