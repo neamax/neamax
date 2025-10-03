@@ -13,13 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-ff1751?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/neamakazemi)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/1030162815790633031/)
 
-
-## 🛠️ Technical Info
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=neama&show_icons=true&theme=tokyonight" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neama&layout=compact&theme=tokyonight" height="150">
-</p>
-
 ### 🔧 Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unrealengine&logoColor=white)
