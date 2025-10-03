@@ -2,7 +2,119 @@
 
 ## 🧠 About Me
 Senior Software Engineer adept at architecting and delivering robust solutions across both full-stack web applications and interactive game development. Combines deep expertise in the complete development lifecycle—design, development, testing, and publishing—with a mastery of low-level languages like C++ for performance-critical environments. Proficient in cutting-edge technologies including Unreal Engine, Unity, and modern web frameworks. An effective problem-solver, able to self-manage on independent projects and collaborate seamlessly as part of a productive, agile team to deliver high-quality, scalable software.
-![Live Resume](https://img.shields.io/badge/Live%20Resume?style=social&link=https%3A%2F%2Fwww.luckygene.net%2Fneama)
+## 🛠️ Technical Expertise
+
+<details>
+<summary><strong>📊 Project Management</strong></summary>
+<br>
+
+> `Agile` `Scrum` `Kanban` `Waterfall`
+
+| Tool / Skill | Proficiency         |
+|--------------|---------------------|
+| **Jira** | █████ `Expert`      |
+| **Git** | █████ `Expert`      |
+| **Slack** | █████ `Expert`      |
+| **Asana** | ████░ `Advanced`    |
+| **Perforce** | ███░░ `Intermediate`|
+
+*Practices: Product Roadmapping, Sprint Planning, Lifecycle Management, Supervising, Team Communication, Task Delegation*
+</details>
+
+---
+
+<details>
+<summary><strong>⚙️ Software Engineering</strong></summary>
+<br>
+
+> `Algorithm Design` `Data Structures` `System Architecture` `Error Handling`
+
+| Tool / Skill      | Proficiency      |
+|-------------------|------------------|
+| **Debugging Tools** | █████ `Expert`   |
+| **Profiling Tools** | █████ `Expert`   |
+| **UML Modelling** | ████░ `Advanced` |
+| **Database Design** | ████░ `Advanced` |
+| **Unit Testing** | ████░ `Advanced` |
+
+*Specialities: Performance Optimisation, Memory Management, Debugging & Profiling, Problem Solving, Multithreading, OO Programming*
+</details>
+
+---
+
+<details>
+<summary><strong>👨‍💻 Programming</strong></summary>
+<br>
+
+> `Object-Oriented` `Functional` `Event-Driven` `Declarative`
+
+| Language     | Proficiency      |
+|--------------|------------------|
+| **C++** | █████ `Expert`   |
+| **JavaScript** | █████ `Expert`   |
+| **Python** | ████░ `Advanced` |
+| **Kotlin** | ████░ `Advanced` |
+| **Rust** | ███░░ `Intermediate` |
+
+*Practices: Clean Code, SOLID Principles, Design Patterns, Code Reviews, Refactoring, Documentation*
+</details>
+
+---
+
+<details>
+<summary><strong>🌐 Full-Stack Development</strong></summary>
+<br>
+
+> `Backend` `Frontend` `Database Admin` `DevOps`
+
+| Technology            | Proficiency      |
+|-----------------------|------------------|
+| **React** | █████ `Expert`   |
+| **Node.js** | ████░ `Advanced` |
+| **MySQL, Postgres, MongoDB** | ████░ `Advanced` |
+| **REST APIs** | ████░ `Advanced` |
+| **Express.js** | ████░ `Advanced` |
+
+*Development Environment: Visual Studio, Git, Docker, Jenkins, Android Studio, Postman*
+</details>
+
+---
+
+<details>
+<summary><strong>🚀 DevOps & Deployment</strong></summary>
+<br>
+
+> `Docker` `Systemd Services` `Windows Services` `Kubernetes`
+
+| Tool / Skill           | Proficiency      |
+|------------------------|------------------|
+| **AWS** | █████ `Expert`   |
+| **Linux Administration** | █████ `Expert` |
+| **Docker** | ████░ `Advanced` |
+| **CI/CD Pipelines** | ████░ `Advanced` |
+| **Kubernetes** | ███░░ `Intermediate` |
+
+*Platforms: AWS, Azure, Google Cloud, Linux Servers, Firebase, Heroku*
+</details>
+
+---
+
+<details>
+<summary><strong>🎮 Game Development</strong></summary>
+<br>
+
+> `Game Design` `Performance Tuning` `Platform Integration` `Publishing`
+
+| Technology        | Proficiency      |
+|-------------------|------------------|
+| **Unreal Engine 5** | █████ `Expert`   |
+| **Steam SDK** | █████ `Expert`   |
+| **Blueprints** | ████░ `Advanced` |
+| **Git LFS** | ████░ `Advanced` |
+| **Unity** | ███░░ `Intermediate` |
+
+*Specialisations: Game Publishing, Steam Integration, Performance Improvement, Low-level Programming, Cross-platform Dev, Platform Integration*
+</details>
 
 
 ### 📫 Let's connect!
