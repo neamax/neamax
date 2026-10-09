@@ -1,6 +1,6 @@
-<img src="https://luckygene.site/neama-git-title.site" alt="Neama Kazemi Github Frontpage Heading" />
+<img src="https://luckygene.site/neama-git-title.png" alt="Neama Kazemi Github Frontpage Heading" />
 
-## 🧠 About Me
+## 🤖 About Me
 Senior Software Engineer adept at architecting and delivering robust solutions across both full-stack web applications and interactive game development. Combines deep expertise in the complete development lifecycle—design, development, testing, and publishing—with a mastery of low-level languages like C++ for performance-critical environments. Proficient in cutting-edge technologies including Unreal Engine, Unity, and modern web frameworks. An effective problem-solver, able to self-manage on independent projects and collaborate seamlessly as part of a productive, agile team to deliver high-quality, scalable software.
 ## 🛠️ Technical Expertise
 
